@@ -4,7 +4,7 @@ I'm a full stack developer who loves reading and writing in my spare time, tryin
 
 I'm well versed in Node, React, Python, and of course HTML/CSS!
 
-Feel free to check out my <a href='https://www.linkedin.com/in/romy-shockey'>LinkedIn<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' /></a>
+Feel free to check out my <a href='https://www.linkedin.com/in/romy-shockey'>LinkedIn<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' width="20" /></a>
 
 <!--
 **rkshockey/rkshockey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
