@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2>✨ Hello, my name's Romy! ✨</h2>
+
+I'm a full stack developer who loves reading and writing in my spare time, trying to climb trees that are way too big for me, and working on fun coding projects like my silly PokeTop RPG!
+
+I'm well versed in Node, React, Python, and of course HTML/CSS!
+
+Feel free to check out my <a href='https://www.linkedin.com/in/romy-shockey'>LinkedIn<img src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif' /></a>
 
 <!--
 **rkshockey/rkshockey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
